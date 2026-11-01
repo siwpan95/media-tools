@@ -10,3 +10,6 @@ __pycache__/
 .vscode/
 .idea/
 *.log
+
+# 卫生债务批次 2026-11-01
+create/output/
